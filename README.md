@@ -19,27 +19,14 @@
 **Proxies**:
 To start using down-4ever, you need to get proxies. You can gain from this even with shit proxies, but the payout will be lower. Up-4ever pays 7$ USD/1000 Downloads on USA/Canada IPs, so before starting please note that premium US/canada proxies will work significantly better and give you a higher payout.
 
-**VPS (optional)**:
-You may want to rent a VPS or private server to run down-4ever. While our software is heavily optimized and can work great on even the lowest spec hardware, you will notice the difference day-and-night from a PC and a VPS running our codes. We sincerely recommend Digitalocean if you choose to do this, for just $5 you can run our code much faster and obviously it can make it back to you.
-
 **Program Setup**:
 Setting up down-4ever is ever so easy, just follow the steps below.
 
-1. Download the repository release. Just go to releases and download the zip file.
-2. Extract the zip file and run `python3 down-4ever.py` on your pc. Requires Python 3+.
-3. The file will start and walk you through the process of flooding your url. If you would like, you can take a look at the code and see how it was made.
-
-<div align="center">
-
-### 💻 Additional Steps/Optimization/Help
-
-</div>
-
-**Failed to run**?
-There are many reasons why down-4ever may fail to run. Try reinstalling python3 and rebooting your PC. If this doesn't fix the problem, please, open an issue so I can get right on it and help you.
-
-**How can I speed the code up**?
-You can speed down-4ever up by enabling Multithreading when asked so. Multithreading allows your PC to run more then 1 miniclient at once so you can flood your links up to 100x faster.
+1. Download the repository release. Just go to releases and download the zip file, then extract it.
+2. Open `config.json.example` in Notepad and fill in the right side of the json file where you are told to.
+3. Save the file and rename it to `config.json`.
+4. Run `python3 down-4ever.py` on your pc. Requires Python 3+.
+5. The file will start and walk you through the process of flooding your url. If you would like, you can take a look at the code and see how it was made.
 
 <div align="center">
 
