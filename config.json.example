@@ -1,0 +1,5 @@
+{
+    "url": "Up-4ever url here",
+    "proxytype": "proxy type, input socks4, socks5, http, or https",
+    "threads": "thread count. should be a high number to run fast, beware it will slow down your pc the higher the number."
+}
