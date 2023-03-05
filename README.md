@@ -41,4 +41,4 @@ You can feel free to look at the code to see how down-4ever works and is heavily
 Yes. At the moment we only support Up-4ever. In the future we plan to add support for bypassing countless other Paid Download sites, opening up more opportunities for different people anywhere in the world to utilize this amazing tool.
 
 **How can I contact you, tripzyy**?
-You can contact me by opening an issue if you have a problem with the code. If you need to speak with me in private, contact my discord at `TOP#1911`.
+You can contact me by opening an issue if you have a problem with the code. If you need to speak with me in private, contact my discord at `!az#1911`.
